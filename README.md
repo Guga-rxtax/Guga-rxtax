@@ -1,5 +1,5 @@
 
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do guga_rxtax 😁
  <div>
    <a href="https://github.com/Guga-rxtax">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guga-rxtax&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
